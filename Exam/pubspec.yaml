@@ -1,0 +1,9 @@
+name: my_order_project
+description: A simple Dart web app for managing orders with Bootstrap UI.
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.0
+  build_runner: ^2.4.6
+  build_web_compilers: ^4.0.0

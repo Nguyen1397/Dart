@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["my_order_project|web/Order.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html","convert"],"hasMain":true}

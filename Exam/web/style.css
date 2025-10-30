@@ -1,0 +1,12 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+h2 {
+    letter-spacing: 1px;
+}
+
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
